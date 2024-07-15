@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Ano</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>Ne</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>a</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Hračky:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>celkem</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>v živém režimu</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>v režimu stavět/koupit</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>v CAS</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Průměrný čas</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Statistiky hraček</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>Vypadá to, že v současné době nejsou uloženy žádné statistiky hraní.\nBudete moci nastavit parametry v dalších dialozích.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Zobrazit čas živého režimu</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Zobrazit čas režimu stavět/koupit</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Zobrazit čas CAS</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>Chcete zobrazit počet her?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>Chcete zobrazit statistiky živého režimu?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>Chcete zobrazit statistiky režimu stavět/koupit?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>Chcete zobrazit statistiky CAS?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Zobrazit počet her</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Aktuální nastavení:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Čas relace</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>v této relaci</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Nastavit poštu</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Ukažte...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Čas relace</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Celkový čas</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Podrobné statistiky</STR>
+
+<KEY>Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Celkový čas strávený ve hře:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>v živém režimu</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>v režimu stavět/koupit</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>Už jste hráli</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>Už jste cestovali</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>čas</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>krát</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Nastavit celkový čas</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>V živém režimu, stavět/koupit režimu, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>V živém režimu, stavět/koupit režimu, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Nastavte sekundy živého režimu:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Nastavte sekundy režimu stavět/koupit:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>Nastavit sekundy CAS:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Nastavení celkového času resetuje čas relace. Necháte-li jakékoliv pole prázdné, nastaví se na nulu.\nChcete pokračovat?</STR>
+
+</TEXT>

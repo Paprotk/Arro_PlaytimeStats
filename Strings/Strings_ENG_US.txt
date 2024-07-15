@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Yes</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>No</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>and</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Playtime:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>in total</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>in live mode</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>in build/buy mode</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>in CAS</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Average time</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Playtime Statistics</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>It looks like there are currently no saved playtime statistics.\n You will be able to adjust the settings in the next dialogs.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Show live mode time</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Show build/buy mode time</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Show CAS time</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>Do you want to show the number of plays?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>Do you want to show live mode statistics?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>Do you want to show build/buy mode statistics?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>Do you want to show CAS statistics?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Show play count</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Current settings:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Session time</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>in this session</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Adjust settings</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Show...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Session time</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Total time</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Comprehensive stats</STR>
+
+<KEY>Arro/PlayTime/Local:Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Total time spent in game:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>in live mode</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>in build/buy mode</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>You've played</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>You've traveled</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>time</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>times</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Set total time</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>In live mode, build/buy mode, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>In live mode, build/buy mode, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Set live mode seconds:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Set build/buy mode seconds:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>Set CAS seconds:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Setting the total time will reset the session time. Leaving any field empty will default it to zero.\nDo you want to continue?</STR>
+
+</TEXT>

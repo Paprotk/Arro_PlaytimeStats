@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Да</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>Нет</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>и</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Время игры:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>всего</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>в режиме жизни</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>в режиме строительства/покупки</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>в CAS</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Среднее время</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Статистика времени игры</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>Похоже, что в настоящее время нет сохраненной статистики времени игры.\n Вы сможете настроить параметры в следующих диалогах.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Показать время в режиме жизни</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Показать время в режиме строительства/покупки</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Показать время в CAS</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>Хотите показать количество игр?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>Хотите показать статистику режима жизни?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>Хотите показать статистику режима строительства/покупки?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>Хотите показать статистику CAS?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Показать количество игр</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Текущие настройки:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Время сессии</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>в этой сессии</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Настроить параметры</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Показать...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Время сессии</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Общее время</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Полная статистика</STR>
+
+<KEY>Arro/PlayTime/Local:Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Общее время в игре:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>в режиме жизни</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>в режиме строительства/покупки</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>Вы играли</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>Вы путешествовали</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>раз</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>раз</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Установить общее время</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>В режиме жизни, строительства/покупки, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>В режиме жизни, строительства/покупки, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Установить секунды для режима жизни:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Установить секунды для режима строительства/покупки:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>Установить секунды для CAS:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Установка общего времени сбросит время сессии. Если оставить любое поле пустым, оно будет установлено в ноль.\nВы хотите продолжить?</STR>
+
+</TEXT>

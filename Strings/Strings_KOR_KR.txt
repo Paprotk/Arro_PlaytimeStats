@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>예</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>아니요</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>그리고</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>플레이 시간:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>전체</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>라이브 모드에서</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>건축/구매 모드에서</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>CAS 모드에서</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>평균 시간</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>플레이 시간 통계</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>현재 저장된 플레이 시간 통계가 없습니다.\n 다음 대화 상자에서 설정을 조정할 수 있습니다.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>라이브 모드 시간 표시</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>건축/구매 모드 시간 표시</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>CAS 모드 시간 표시</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>플레이 횟수를 표시하시겠습니까?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>라이브 모드 통계를 표시하시겠습니까?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>건축/구매 모드 통계를 표시하시겠습니까?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>CAS 모드 통계를 표시하시겠습니까?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>플레이 횟수 표시</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>현재 설정:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>세션 시간</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>이 세션에서</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>설정 조정</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>표시...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>세션 시간</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>총 시간</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>전체 통계</STR>
+
+<KEY>Arro/PlayTime/Local:Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>게임에서 총 시간 소비:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>라이브 모드에서</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>건축/구매 모드에서</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>플레이한 횟수</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>여행한 횟수</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>번</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>번</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>총 시간 설정</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>라이브 모드, 건축/구매 모드, CAS에서</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>라이브 모드, 건축/구매 모드, CAS에서</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>라이브 모드 초 설정:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>건축/구매 모드 초 설정:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>CAS 모드 초 설정:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>총 시간 설정 시 세션 시간이 초기화됩니다. 필드를 비워 두면 0으로 설정됩니다.\n계속 하시겠습니까?</STR>
+
+</TEXT>

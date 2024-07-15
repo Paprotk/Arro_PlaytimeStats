@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Tak</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>Nie</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>i</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Czas gry:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>w sumie</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>w trybie życia</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>w trybie bud/kup</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>w CAS</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Średni czas</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Statystyki czasu gry</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>Wygląda na to, że nie ma obecnie zapisanych statystyk czasu gry.\n Dostosowanie ustawień będzie możliwe w kolejnych okienkach dialogowych.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Pokaż czas trybu życia</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Pokaż czas trybu bud/kup</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Pokaż czas w CAS</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>Czy chcesz pokazywać ilość zagranych razy?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>Czy chcesz pokazywać statystki trybu życia?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>Czy chcesz pokazywać statystki tybu bud/kup?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>Czy chcesz pokazywać statystki CAS?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Pokaż ilość zagranych razy</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Obecne ustawienia:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Czas sesji</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>w tej sesji</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Dostosuj ustawienia</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Pokaż...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Czas sesji</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Całkowity czas</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Wyczerpujące statystyki</STR>
+
+<KEY>Arro/PlayTime/Local:Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Całkowity czas spędzony w grze:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>w trybie życia</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>w trybie bud/kup</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>Zagrałeś</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>Podróżowałeś</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>raz</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>razy</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Ustaw całkowity czas</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>W trybie życia, trybie bud/kup, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>W trybie życia, trybie bud/kup, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Ustaw sekundy w trybie życia:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Ustaw sekundy w trybie budowania/kupowania:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>Ustaw sekundy w CAS:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Ustawienie całkowitego czasu spowoduje zresetowanie czasu sesji. Pozostawienie dowolnego pola pustego spowoduje domyślne ustawienie go na zero.\nCzy chcesz kontynuować?</STR>
+
+</TEXT>

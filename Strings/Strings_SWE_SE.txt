@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Ja</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>Nej</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>och</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Speltid:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>totalt</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>i live-läge</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>i bygg/köp-läge</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>i CAS</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Genomsnittlig tid</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Speltidsstatistik</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>Det verkar som att det för närvarande inte finns några sparade speltidsstatistik.\n Du kommer att kunna justera inställningarna i nästa dialogrutor.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Visa live-lägetid</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Visa bygg/köp-lägetid</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Visa CAS-tid</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>Vill du visa antalet spelningar?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>Vill du visa statistik för live-läge?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>Vill du visa statistik för bygg/köp-läge?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>Vill du visa statistik för CAS?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Visa spelantal</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Nuvarande inställningar:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Sessionstid</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>i denna session</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Justera inställningar</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Visa...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Sessionstid</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Total tid</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Omfattande statistik</STR>
+
+<KEY>Arro/PlayTime/Local:Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Total tid spenderad i spelet:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>i live-läge</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>i bygg/köp-läge</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>Du har spelat</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>Du har rest</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>gång</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>gånger</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Ställ in total tid</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>I live-läge, bygg/köp-läge, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>I live-läge, bygg/köp-läge, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Ställ in live-lägetid (sekunder):</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Ställ in bygg/köp-lägetid (sekunder):</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>Ställ in CAS-tid (sekunder):</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Att ställa in total tid kommer att återställa sessionstiden. Lämnar du något fält tomt kommer det att ställas in på noll.\nVill du fortsätta?</STR>
+
+</TEXT>

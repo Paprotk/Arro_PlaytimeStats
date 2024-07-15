@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Igen</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>Nem</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>és</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Játékidő:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>összesen</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>élő módban</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>építés/vásárlás módban</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>CAS-ban</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Átlagos idő</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Játékidő statisztikák</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>Jelenleg úgy tűnik, nincsenek mentett játékidő statisztikák.\nA beállításokat a következő párbeszédekben állíthatja be.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Mutasd az élő mód időt</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Mutasd az építés/vásárlás mód időt</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Mutasd a CAS időt</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>Szeretné megjeleníteni a játszások számát?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>Szeretné megjeleníteni az élő mód statisztikákat?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>Szeretné megjeleníteni az építés/vásárlás mód statisztikákat?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>Szeretné megjeleníteni a CAS statisztikákat?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Játszásszám megjelenítése</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Jelenlegi beállítások:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Munkamenet idő</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>ebben a munkamenetben</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Beállítások módosítása</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Mutatás...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Munkamenet idő</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Összes idő</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Kiterjedt statisztikák</STR>
+
+<KEY>Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Összesen eltöltött idő a játékban:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>élő módban</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>építés/vásárlás módban</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>Játszottál</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>Utaztál</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>alkalom</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>alkalommal</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Összes idő beállítása</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>Élő módban, építés/vásárlás módban, CAS-ban</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>Élő módban, építés/vásárlás módban, CAS-ban</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Élő mód másodpercek beállítása:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Építés/vásárlás mód másodpercek beállítása:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>CAS másodpercek beállítása:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Az összes idő beállítása visszaállítja a munkamenet időt. Ha bármelyik mezőt üresen hagyja, az nullára állítódik.\nFolytatja?</STR>
+
+</TEXT>

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Kyllä</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>Ei</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>ja</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Pelattu aika:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>yhteensä</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>live-tilassa</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>rakenna/osta-tilassa</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>CAS-tilassa</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Keskimääräinen aika</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Pelattu aika -tilastot</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>Näyttää siltä, että tallennettuja peliajan tilastoja ei ole tällä hetkellä.\nVoit säätää asetuksia seuraavissa keskusteluissa.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Näytä live-tilan aika</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Näytä rakenna/osta-tilan aika</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Näytä CAS-tilan aika</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>Haluatko näyttää pelikertojen määrän?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>Haluatko näyttää live-tilan tilastot?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>Haluatko näyttää rakenna/osta-tilan tilastot?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>Haluatko näyttää CAS-tilan tilastot?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Näytä pelikertojen määrä</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Nykyiset asetukset:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Istunnon kesto</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>tässä istunnossa</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Säädä asetuksia</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Näytä...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Istunnon kesto</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Kokonaisaika</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Kattavat tilastot</STR>
+
+<KEY>Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Kokonaisaika pelissä:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>live-tilassa</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>rakenna/osta-tilassa</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>Olet pelannut</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>Olet matkustanut</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>kerta</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>kertaa</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Aseta kokonaisaika</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>Live-tilassa, rakenna/osta-tilassa, CAS-tilassa</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>Live-tilassa, rakenna/osta-tilassa, CAS-tilassa</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Aseta live-tilan sekunnit:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Aseta rakenna/osta-tilan sekunnit:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>Aseta CAS-tilan sekunnit:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Kokonaisajan asettaminen nollaa istuntoajan. Jätä kenttä tyhjäksi nollatakseen sen.\nHaluatko jatkaa?</STR>
+
+</TEXT>

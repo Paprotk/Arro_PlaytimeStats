@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Sí</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>No</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>y</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Tiempo de juego:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>en total</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>en modo en vivo</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>en modo construir/comprar</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>en CAS</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Tiempo promedio</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Estadísticas de tiempo de juego</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>Parece que actualmente no hay estadísticas de tiempo de juego guardadas.\n Podrás ajustar las configuraciones en los siguientes diálogos.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Mostrar tiempo en modo en vivo</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Mostrar tiempo en modo construir/comprar</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Mostrar tiempo en CAS</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>¿Quieres mostrar el número de juegos?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>¿Quieres mostrar las estadísticas del modo en vivo?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>¿Quieres mostrar las estadísticas del modo construir/comprar?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>¿Quieres mostrar las estadísticas del CAS?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Mostrar conteo de juegos</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Configuraciones actuales:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Tiempo de sesión</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>en esta sesión</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Ajustar configuraciones</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Mostrar...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Tiempo de sesión</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Tiempo total</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Estadísticas completas</STR>
+
+<KEY>Arro/PlayTime/Local:Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Tiempo total en el juego:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>en modo en vivo</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>en modo construir/comprar</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>Has jugado</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>Has viajado</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>vez</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>veces</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Establecer tiempo total</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>En modo en vivo, construir/comprar, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>En modo en vivo, construir/comprar, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Establecer segundos de modo en vivo:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Establecer segundos de modo construir/comprar:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>Establecer segundos de CAS:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Establecer el tiempo total restablecerá el tiempo de la sesión. Dejar cualquier campo vacío lo establecerá en cero.\n¿Quieres continuar?</STR>
+
+</TEXT>

@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Ναι</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>Όχι</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>και</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Χρόνος παιχνιδιού:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>συνολικά</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>σε λειτουργία πραγματικού χρόνου</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>σε λειτουργία αγοράς/κατασκευής</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>σε ΕΔΑ</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Μέσος χρόνος</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Στατιστικά χρόνου παιχνιδιού</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>Φαίνεται ότι δεν υπάρχουν αποθηκευμένα στατιστικά χρόνου παιχνιδιού αυτήν τη στιγμή.\nΘα μπορείτε να ρυθμίσετε τις ρυθμίσεις στα επόμενα παράθυρα διαλόγου.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Εμφάνιση χρόνου σε λειτουργία πραγματικού χρόνου</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Εμφάνιση χρόνου σε λειτουργία αγοράς/κατασκευής</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Εμφάνιση χρόνου σε ΕΔΑ</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>Θέλετε να εμφανίζεται ο αριθμός των παιχνιδιών;</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>Θέλετε να εμφανίζονται στατιστικά λειτουργίας πραγματικού χρόνου;</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>Θέλετε να εμφανίζονται στατιστικά λειτουργίας αγοράς/κατασκευής;</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>Θέλετε να εμφανίζονται στατιστικά ΕΔΑ;</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Εμφάνιση αριθμού παιχνιδιών</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Τρέχουσες ρυθμίσεις:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Χρόνος συνεδρίας</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>σε αυτήν τη συνεδρία</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Ρύθμιση των ρυθμίσεων</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Εμφάνιση...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Χρόνος συνεδρίας</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Συνολικός χρόνος</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Συνολικά στατιστικά</STR>
+
+<KEY>Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Συνολικός χρόνος που έχετε παίξει στο παιχνίδι:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>σε λειτουργία πραγματικού χρόνου</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>σε λειτουργία αγοράς/κατασκευής</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>Έχετε παίξει</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>Έχετε ταξιδέψει</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>φορά</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>φορές</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Ορισμός συνολικού χρόνου</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>Σε λειτουργία πραγματικού χρόνου, αγοράς/κατασκευής, ΕΔΑ</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>Σε λειτουργία πραγματικού χρόνου, αγοράς/κατασκευής, ΕΔΑ</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Ορισμός δευτερολέπτων λειτουργίας πραγματικού χρόνου:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Ορισμός δευτερολέπτων λειτουργίας αγοράς/κατασκευής
+
+:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>Ορισμός δευτερολέπτων ΕΔΑ:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Η ρύθμιση του συνολικού χρόνου θα επαναφέρει τον χρόνο συνεδρίας. Αφήνοντας οποιοδήποτε πεδίο κενό, θα οριστεί στο μηδέν.\nΘέλετε να συνεχίσετε;</STR>
+
+</TEXT>

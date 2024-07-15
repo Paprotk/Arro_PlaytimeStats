@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<TEXT>
+
+<KEY>Arro/PlayTime/Local:yes</KEY>
+<STR>Ja</STR>
+
+<KEY>Arro/PlayTime/Local:no</KEY>
+<STR>Nee</STR>
+
+<KEY>Arro/PlayTime/Local:and</KEY>
+<STR>en</STR>
+
+<KEY>Arro/PlayTime/Local:playtime</KEY>
+<STR>Speeltijd:</STR>
+
+<KEY>Arro/PlayTime/Local:intotal</KEY>
+<STR>totaal</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode</KEY>
+<STR>in live-modus</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode</KEY>
+<STR>in bouw-/koopmodus</STR>
+
+<KEY>Arro/PlayTime/Local:incas</KEY>
+<STR>in CAS</STR>
+
+<KEY>Arro/PlayTime/Local:averagetimespent</KEY>
+<STR>Gemiddelde tijd</STR>
+
+<KEY>Arro/PlayTime/Local:playtimestatstitle</KEY>
+<STR>Speeltijd statistieken</STR>
+
+<KEY>Arro/PlayTime/Local:noplaytimestats</KEY>
+<STR>Het lijkt erop dat er momenteel geen opgeslagen speeltijd statistieken zijn.\n U kunt de instellingen aanpassen in de volgende dialogen.</STR>
+
+<KEY>Arro/PlayTime/Local:livestats</KEY>
+<STR>Toon live-modus tijd</STR>
+
+<KEY>Arro/PlayTime/Local:bbstats</KEY>
+<STR>Toon bouw-/koopmodus tijd</STR>
+
+<KEY>Arro/PlayTime/Local:casstats</KEY>
+<STR>Toon CAS tijd</STR>
+
+<KEY>Arro/PlayTime/Local:showplaycount</KEY>
+<STR>Wilt u het aantal keren spelen tonen?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowlivestats</KEY>
+<STR>Wilt u live-modus statistieken tonen?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowbbstats</KEY>
+<STR>Wilt u bouw-/koopmodus statistieken tonen?</STR>
+
+<KEY>Arro/PlayTime/Local:doyouwanttoshowcasstats</KEY>
+<STR>Wilt u CAS statistieken tonen?</STR>
+
+<KEY>Arro/PlayTime/Local:playcount</KEY>
+<STR>Toon aantal keren spelen</STR>
+
+<KEY>Arro/PlayTime/Local:currentsettings</KEY>
+<STR>Huidige instellingen:</STR>
+
+<KEY>Arro/PlayTime/Local:sessionplaytime</KEY>
+<STR>Sessie tijd</STR>
+
+<KEY>Arro/PlayTime/Local:inthissession</KEY>
+<STR>in deze sessie</STR>
+
+<KEY>Arro/PlayTime/Local:mailboxsetup</KEY>
+<STR>Instellingen aanpassen</STR>
+
+<KEY>Arro/PlayTime/Local:showdotdotdot</KEY>
+<STR>Toon...</STR>
+
+<KEY>Arro/PlayTime/Local:showsessiontime</KEY>
+<STR>Sessie tijd</STR>
+
+<KEY>Arro/PlayTime/Local:showtotaltime</KEY>
+<STR>Totale tijd</STR>
+
+<KEY>Arro/PlayTime/Local:showcomprehensivestats</KEY>
+<STR>Uitgebreide statistieken</STR>
+
+<KEY>Arro/PlayTime/Local:totaltimespentingame</KEY>
+<STR>Totale tijd gespeeld in het spel:</STR>
+
+<KEY>Arro/PlayTime/Local:inlivemode2</KEY>
+<STR>in live-modus</STR>
+
+<KEY>Arro/PlayTime/Local:inbbmode2</KEY>
+<STR>in bouw-/koopmodus</STR>
+
+<KEY>Arro/PlayTime/Local:youveplayed</KEY>
+<STR>Je hebt gespeeld</STR>
+
+<KEY>Arro/PlayTime/Local:youvetraveled</KEY>
+<STR>Je hebt gereisd</STR>
+
+<KEY>Arro/PlayTime/Local:once</KEY>
+<STR>keer</STR>
+
+<KEY>Arro/PlayTime/Local:times</KEY>
+<STR>keer</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltime</KEY>
+<STR>Stel totale tijd in</STR>
+
+<KEY>Arro/PlayTime/Local:totallivebuildcas</KEY>
+<STR>In live-modus, bouw-/koopmodus, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:sessionlivebuildcas</KEY>
+<STR>In live-modus, bouw-/koopmodus, CAS</STR>
+
+<KEY>Arro/PlayTime/Local:setlivemodeseconds</KEY>
+<STR>Stel live-modus seconden in:</STR>
+
+<KEY>Arro/PlayTime/Local:setbbmodeseconds</KEY>
+<STR>Stel bouw-/koopmodus seconden in:</STR>
+
+<KEY>Arro/PlayTime/Local:setcasseconds</KEY>
+<STR>Stel CAS seconden in:</STR>
+
+<KEY>Arro/PlayTime/Local:settotaltimewarning</KEY>
+<STR>Het instellen van de totale tijd zal de sessietijd resetten. Het leeg laten van een veld zal dit standaard op nul zetten.\nWilt u doorgaan?</STR>
+
+</TEXT>
