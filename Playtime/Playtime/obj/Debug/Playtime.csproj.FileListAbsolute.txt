@@ -1,0 +1,12 @@
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\Playtime.dll
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\Playtime.pdb
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\ScriptCore.dll
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\SimIFace.dll
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\Sims3GameplayObjects.dll
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\Sims3GameplaySystems.dll
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\Sims3MetaData.dll
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\Sims3StoreObjects.dll
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\UI.dll
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\obj\Debug\Playtime.dll
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\obj\Debug\Playtime.pdb
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\obj\Debug\Playtime.csprojResolveAssemblyReference.cache

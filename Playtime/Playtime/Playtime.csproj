@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{7E87B340-3991-4D99-AE3A-5F9E2587643E}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Playtime</RootNamespace>
+    <AssemblyName>Playtime</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>True</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="4TimerMaths.cs" />
+    <Compile Include="3AllTimers.cs" />
+    <Compile Include="2Command.cs" />
+    <Compile Include="5TimeStats.cs" />
+    <Compile Include="1Main.cs" />
+    <Compile Include="6NotificationSystem.cs" />
+    <Compile Include="8ExceptionHandler.cs" />
+    <Compile Include="9Tooltip.cs" />
+    <Compile Include="Localization.cs" />
+    <Compile Include="7MailboxInteraction.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib">
+      <HintPath>..\..\DLLS\mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptCore">
+      <HintPath>..\..\DLLS\ScriptCore.dll</HintPath>
+    </Reference>
+    <Reference Include="SimIFace">
+      <HintPath>..\..\DLLS\SimIFace.dll</HintPath>
+    </Reference>
+    <Reference Include="Sims3GameplayObjects">
+      <HintPath>..\..\DLLS\Sims3GameplayObjects.dll</HintPath>
+    </Reference>
+    <Reference Include="Sims3GameplaySystems">
+      <HintPath>..\..\DLLS\Sims3GameplaySystems.dll</HintPath>
+    </Reference>
+    <Reference Include="Sims3MetaData">
+      <HintPath>..\..\DLLS\Sims3MetaData.dll</HintPath>
+    </Reference>
+    <Reference Include="Sims3StoreObjects">
+      <HintPath>..\..\DLLS\Sims3StoreObjects.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\DLLS\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>..\..\DLLS\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="UI">
+      <HintPath>..\..\DLLS\UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
